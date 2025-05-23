@@ -1,0 +1,22 @@
+.card {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 30%;
+    max-width: 350px;
+    min-width: 200px;
+
+    padding: 10px;
+    background-color: rgb(233, 235, 255);
+
+    text-align: center;
+    overflow: hidden;
+
+    .card-img {
+        width: 95%;
+        min-width: 200px;
+    }
+
+    margin: 5px;
+    box-shadow: 0 0 4px 1px gray;
+
+}
